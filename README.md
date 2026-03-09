@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Happiness Ncube 👋
 
-<!--
-**Zionncube/Zionncube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Flutter & .NET | BYU–Idaho Bachelor’s Student
 
-Here are some ideas to get you started:
+I enjoy building technology solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- 🚖 SA Taxi App – Flutter mobile application exploring ways to improve taxi transport coordination.
+- 💰 Financial Tracker – Team project for managing personal income and expenses.
+
+## 🧰 Technologies
+- Flutter / Dart
+- C#
+- .NET / Blazor
+- Python
+- TypeScript / JavaScript
+- SQL
+- HTML & CSS
+
+## 🎓 Education
+Bachelor’s Degree in Software Development (In Progress)  
+BYU–Idaho
+
+Associate Degree in Web and Computer Programming  
+BYU–Idaho
+
+## 📫 Connect with me
+LinkedIn: (your LinkedIn link)
