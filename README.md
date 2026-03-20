@@ -4,11 +4,12 @@ Software Developer | Flutter & .NET | BYU–Idaho Bachelor’s Student
 
 I enjoy building technology solutions that solve real-world problems.
 
-## 🚀 Current Projects
+ 🚀 Current Projects
 - 🚖 SA Taxi App – Flutter mobile application exploring ways to improve taxi transport coordination.
 - 💰 Financial Tracker – Team project for managing personal income and expenses.
+- Privet contributers
 
-## 🧰 Technologies
+🧰 Technologies
 - Flutter / Dart
 - C#
 - .NET / Blazor
@@ -17,12 +18,13 @@ I enjoy building technology solutions that solve real-world problems.
 - SQL
 - HTML & CSS
 
-## 🎓 Education
+🎓 Education
 Bachelor’s Degree in Software Development (In Progress)  
 BYU–Idaho
 
 Associate Degree in Web and Computer Programming  
 BYU–Idaho
 
-## 📫 Connect with me
-LinkedIn: (your LinkedIn link)
+
+ 📫 Connect with me
+LinkedIn: www.linkedin.com/in/nonkululeko-ncube-252a6518b
