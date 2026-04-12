@@ -7,7 +7,10 @@
 ---
 
 ## 🌟 About Me
-I am a purpose-driven software developer who enjoys building technology solutions that solve real-world problems. I have a strong interest in mobile development, backend systems, and emerging areas like AI and prompt engineering.  
+I am a purpose-driven software developer who enjoys building technology solutions that solve real-world problems. I have a strong interest in mobile development, backend systems, and emerging areas like AI and I believe the best products live at the intersection of:
+Technology × People × Real-world needs
+
+Everything I build here starts with a problem — not just code.  
 
 I am passionate about learning, growing in a professional environment, and contributing to meaningful, user-centered solutions.
 
